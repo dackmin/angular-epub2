@@ -1,6 +1,6 @@
 {
     "name": "angular-epub2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": [
         "dist/angular-epub2.min.js"
     ],
@@ -12,6 +12,8 @@
         "url": "git@github.com:dackmin/angular-epub2.git"
     },
     "dependencies": {
+        "jszip": "Stuk/jszip#~2.5.0",
+        "file-saver.js": "~1.20150507.2"
     },
     "devDependencies": {
     }
