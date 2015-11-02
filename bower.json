@@ -12,6 +12,8 @@
         "url": "git@github.com:dackmin/angular-epub2.git"
     },
     "dependencies": {
+        "jszip": "Stuk/jszip#~2.5.0",
+        "file-saver.js": "~1.20150507.2"
     },
     "devDependencies": {
     }
