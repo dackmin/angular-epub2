@@ -1,0 +1,10 @@
+{
+    "name": "angular-epub2",
+    "version": "1.0.0",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-coffee": "^0.13.0",
+        "grunt-contrib-concat": "~0.3",
+        "grunt-contrib-uglify": "~0.2.2"
+    }
+}
