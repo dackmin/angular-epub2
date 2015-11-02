@@ -1,0 +1,18 @@
+{
+    "name": "angular-epub2",
+    "version": "1.0.0",
+    "main": [
+        "dist/angular-epub2.min.js"
+    ],
+    "authors": [
+        "Ugo Stephant <ugo@oddly.fr>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:dackmin/angular-epub2.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
